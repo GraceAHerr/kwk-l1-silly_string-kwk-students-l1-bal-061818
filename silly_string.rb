@@ -11,7 +11,7 @@ favorite_word_in_all_caps = your_favorite_word.upcase
 
 # Put a . after your_favorite word and use a String method.
 
-puts #{your_favorite_word}.upcase
+puts favorite_word_in_all_caps
 
 # Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
 
