@@ -33,13 +33,13 @@ bigger_word = big_word # Use String concatenation to add "wow" and "mom" to big_
 
 new_letter_count = bigger_word.size
 
-puts "There are now #{new_letter_count} in #{bigger_word}"
+puts "supercalifragilisticexpialidocious"+ "wow" +"mom"
 
 # Challenge 6: Capitalize this sentence properly
 
 proper_sentence = "i really like programming." # Put a . after the string to capitalize it properly.
 
-puts proper_sentence
+puts "i really like programming".capitalize
 
 # Challenge 7: String Switcheroo
 sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"
