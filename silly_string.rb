@@ -9,7 +9,7 @@ puts #{your_favorite_word}.upcase
 
 favorite_word_in_all_caps = your_favorite_word # Put a . after your_favorite word and use a String method.
 
-puts "food".upcase
+puts #{your_favorite_word}.upcase
 
 # Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
 
