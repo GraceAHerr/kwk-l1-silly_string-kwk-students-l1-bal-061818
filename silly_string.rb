@@ -1,15 +1,9 @@
 
-# Challenge 1: Fill this string in with your favorite word
-
 your_favorite_word = "food"
 
 puts your_favorite_word
 
-# Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
-
 favorite_word_in_all_caps = your_favorite_word.upcase 
-
-# Put a . after your_favorite word and use a String method.
 
 puts favorite_word_in_all_caps
 
@@ -17,9 +11,9 @@ puts favorite_word_in_all_caps
 
 phrase = "IM NOT SHOUTING"
 
-lowercased_phrase = phrase # Put a . after phrase and use a String method.
+lowercased_phrase = phrase.downcase # Put a . after phrase and use a String method.
 
-puts "I'm not shouting".downcase
+puts lowercased_phrase
 
 # Challenge 4: Count how many letters are in that big_word
 
