@@ -48,3 +48,4 @@ sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples 
 
 sentence = sentence.gsub("a", "o").gsub("A","O")
 puts sentence
+"Schools out"
